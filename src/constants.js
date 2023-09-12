@@ -1,0 +1,1 @@
+export const url = "https://media-div.onrender.com/"
